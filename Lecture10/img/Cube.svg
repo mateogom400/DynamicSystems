@@ -16,7 +16,7 @@
    sodipodi:docname="Cube.svg"
    viewBox="0 0 427.26078 296.5">
   <sodipodi:namedview
-     inkscape:window-height="835"
+     inkscape:window-height="871"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -24,10 +24,10 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="1.2669665"
-     inkscape:cx="281.73638"
-     inkscape:cy="125.98092"
-     inkscape:window-x="1600"
+     inkscape:zoom="1.7272317"
+     inkscape:cx="144.90464"
+     inkscape:cy="115.79409"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg6989"
      showgrid="false"
@@ -245,7 +245,7 @@
      id="text7034"
      style="font-size:31.25px;line-height:0%;font-family:Tahoma"
      y="281.625"
-     x="305.12073">d</text>
+     x="305.12073">L</text>
   <path
      sodipodi:nodetypes="cc"
      inkscape:connector-curvature="0"
