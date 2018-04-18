@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="341.80862pt"
+   height="237.2pt"
+   id="svg6989"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Cube.svg"
+   viewBox="0 0 427.26078 296.5">
+  <sodipodi:namedview
+     inkscape:window-height="835"
+     inkscape:window-width="1600"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.2669665"
+     inkscape:cx="281.73638"
+     inkscape:cy="125.98092"
+     inkscape:window-x="1600"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg6989"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7039">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Cube</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="id0">Cube</title>
+  <defs
+     id="definicoes">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path6825"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#969696;stroke-width:1pt;stroke-opacity:1;fill:#969696;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path6831" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5179" />
+    </marker>
+    <marker
+       style="fill:#000000"
+       markerHeight="8"
+       markerWidth="16"
+       markerUnits="strokeWidth"
+       orient="auto"
+       refY="4"
+       refX="16"
+       viewBox="0 0 16 8"
+       id="seta1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6994"
+         d="M 0,0 V 8 L 16,4 Z" />
+    </marker>
+    <marker
+       style="fill:#000000"
+       markerHeight="8"
+       markerWidth="16"
+       markerUnits="strokeWidth"
+       orient="auto"
+       refY="4"
+       refX="0"
+       viewBox="0 0 16 8"
+       id="seta2">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6997"
+         d="M 16,0 V 8 L 0,4 Z" />
+    </marker>
+    <marker
+       style="fill:#000000"
+       markerHeight="8"
+       markerWidth="16"
+       markerUnits="strokeWidth"
+       orient="auto"
+       refY="4"
+       refX="16"
+       viewBox="0 0 16 8"
+       id="seta1-3">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6994-6"
+         d="M 0,0 V 8 L 16,4 Z" />
+    </marker>
+    <marker
+       style="fill:#000000"
+       markerHeight="8"
+       markerWidth="16"
+       markerUnits="strokeWidth"
+       orient="auto"
+       refY="4"
+       refX="16"
+       viewBox="0 0 16 8"
+       id="seta1-3-3">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6994-6-5"
+         d="M 0,0 V 8 L 16,4 Z" />
+    </marker>
+    <marker
+       inkscape:stockid="seta1k"
+       style="fill:#000000"
+       markerHeight="8"
+       markerWidth="16"
+       markerUnits="strokeWidth"
+       orient="auto"
+       refY="4"
+       refX="16"
+       viewBox="0 0 16 8"
+       id="seta1k">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7214"
+         d="M 0,0 V 8 L 16,4 Z" />
+    </marker>
+  </defs>
+  <g
+     style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-dasharray:12, 4"
+     transform="translate(28.245743,-58.500002)"
+     id="facesocultas">
+    <line
+       id="line7000"
+       y2="225"
+       x2="200"
+       y1="260"
+       x1="60" />
+    <line
+       id="line7002"
+       y2="225"
+       x2="200"
+       y1="260"
+       x1="340" />
+    <line
+       id="line7004"
+       y2="60"
+       x2="200"
+       y1="320"
+       x1="200" />
+  </g>
+  <g
+     transform="translate(82.245743,-4.5000015)"
+     style="fill:none;stroke:#000000;stroke-width:3.00118108;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="faces">
+    <polygon
+       transform="translate(-54,-54)"
+       style="fill:#0000dd;fill-opacity:0.18518515;stroke-width:3.00118108;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polygon7007"
+       points="340,260 340,80 200,110 200,320 " />
+    <polygon
+       transform="translate(-54,-54)"
+       style="fill:#0000d5;fill-opacity:0.18518515;stroke-width:3.00118108;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polygon7009"
+       points="60,260 60,80 200,110 200,320 " />
+    <polygon
+       transform="translate(-54,-54)"
+       style="fill:#0000d5;fill-opacity:0.18518515;stroke-width:3.00118108;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polygon7011"
+       points="60,80 200,60 340,80 200,110 " />
+  </g>
+  <g
+     style="stroke:#000000;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="translate(28.245743,-58.500002)"
+     id="cota2">
+    <line
+       style="stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line7021"
+       y2="295"
+       x2="340"
+       y1="265"
+       x1="340" />
+    <line
+       style="stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line7023"
+       y2="355"
+       x2="200"
+       y1="325"
+       x1="200" />
+    <line
+       style="stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#seta2);marker-end:url(#seta1)"
+       id="line7025"
+       y2="288"
+       x2="340"
+       y1="348"
+       x1="200" />
+  </g>
+  <text
+     id="text7034"
+     style="font-size:31.25px;line-height:0%;font-family:Tahoma"
+     y="281.625"
+     x="305.12073">d</text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path5156"
+     d="M 25.459215,28.181254 124.30984,63.234665"
+     style="fill:none;stroke:#000000;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#seta1)" />
+  <text
+     x="-0.24414062"
+     y="28.439161"
+     style="font-size:31.25px;line-height:0%;font-family:Tahoma"
+     id="text5158">A</text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path5162"
+     d="M 3.6751828,168.48942 161.51737,128.93192"
+     style="fill:none;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)" />
+  <text
+     x="43.78537"
+     y="136.8165"
+     style="font-size:31.25px;line-height:0%;font-family:Tahoma;stroke-width:1"
+     id="text5158-3">q</text>
+  <text
+     id="text7034-6"
+     style="font-size:31.25000191px;line-height:0%;font-family:Tahoma;stroke-width:1"
+     y="130.40092"
+     x="296.35132">k</text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path5156-7"
+     d="M 98.465535,221.40734 156.61856,200.96402"
+     style="fill:none;stroke:#000000;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#seta1-3)" />
+  <text
+     x="70.46962"
+     y="232.70978"
+     style="font-size:31.25000191px;line-height:0%;font-family:Tahoma;stroke-width:1"
+     id="text5158-5">θ<tspan
+   id="tspan4963"
+   style="font-size:60.9375%;baseline-shift:sub">1</tspan>
+</text>
+  <text
+     x="397.9472"
+     y="135.87389"
+     style="font-size:31.25000191px;line-height:0%;font-family:Tahoma;stroke-width:1"
+     id="text5158-5-2">θ<tspan
+   id="tspan6598"
+   style="font-size:60.9375%;baseline-shift:sub">2</tspan>
+</text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path7181"
+     d="m 391.79181,127.89737 -23.70973,8.86453"
+     style="fill:none;stroke:#000000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path7183"
+     d="m 367.3716,136.9808 -47.73354,17.58631"
+     style="stroke-linejoin:miter;stroke-opacity:1;stroke:#969696;stroke-linecap:butt;stroke-width:0.93897637;fill:none;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)" />
+</svg>
